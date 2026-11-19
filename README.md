@@ -24,7 +24,7 @@ Every request and response passes through Unity AI Gateway policies:
 
 ## Getting started
 
-Customers who want to change a beneficiary should recieve a confirmation letter
+Customers who want to change a beneficiary should receive a confirmation letter
 within five business days.
 
 All data in this repository is fictional.
